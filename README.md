@@ -1,4 +1,4 @@
-⚡💻 Your local wire rider 💻⚡
+⚡💻 your local wire rider 💻⚡
 
 Check out my repos to find stuff to help you find stuff, and some other things.
 
