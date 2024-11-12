@@ -1,6 +1,6 @@
 <div align="center">
 
-⚡💻 your local wire rider 💻⚡
+⚡💻 Your local wire rider. 💻⚡
 
 Check out my repos to find stuff to help you find stuff, and some other things.
 
