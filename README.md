@@ -1,8 +1,6 @@
 <div align="center">
 
-⚡Your local wire rider⚡
-
------
+## ⚡Your local wire rider⚡
 
 🏆 [edit2exfil](https://payloadhub.com/blogs/payloads/edit2exfil) - Hak5 DuckyScript payload award winner (May, 2025) 🏆
 
