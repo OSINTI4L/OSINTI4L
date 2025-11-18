@@ -1,7 +1,7 @@
 <div align="center">
 
 ## ⚡Your local wire rider⚡
-|🏆 Hak5 DuckyScript Payload Awards 🏆| 🖳 OS 📱 |
+|🏆 Hak5 DuckyScript Payload Awards 🏆| 💻 OS 📱 |
 |---|---|
 |[Brisket_Breacher](https://payloadhub.com/blogs/payloads/brisket_breacher) |`Android`|
 |[Droidex](https://payloadhub.com/blogs/payloads/droidex)  |`Android`|
